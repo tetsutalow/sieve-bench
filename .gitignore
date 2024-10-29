@@ -1,0 +1,7 @@
+*.mp?
+*.xlsx
+*.pptx
+sieve-c
+sieve-go
+*.txt
+a.out
