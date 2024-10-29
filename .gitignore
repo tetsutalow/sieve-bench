@@ -5,3 +5,5 @@ sieve-c
 sieve-go
 *.txt
 a.out
+sieve/target
+sieve/target/*
